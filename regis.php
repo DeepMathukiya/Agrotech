@@ -8,6 +8,7 @@ session_start();
 <!DOCTYPE html>
 <html lang="en">
 <head> 
+   <link rel="icon" href="logo1.jpg" type="image/x-icon">
   <title>Signup page</title>
 <?php include 'links.php'?>  
 <style>
