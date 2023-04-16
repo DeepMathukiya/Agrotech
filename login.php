@@ -5,6 +5,7 @@ session_start();
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="icon" href="logo1.jpg" type="image/x-icon">
 <title>Log In</title>
 <?php include 'links.php'?>  
 <style>
